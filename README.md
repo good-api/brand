@@ -1,6 +1,6 @@
 ![logo](https://github.com/good-api/brand/blob/master/graphics/GOOD%20API%20Black.svg)
 
-# brand
+# Good API Consulting Brand Assets
 Good API consulting brand assets and color theme
 
 ## Fonts
